@@ -26,14 +26,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
      inkscape:cx="599.98243"
-     inkscape:cy="183.44058"
+     inkscape:cy="627.9077"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1640"
      inkscape:window-height="1138"
-     inkscape:window-x="-32000"
-     inkscape:window-y="-32000"
+     inkscape:window-x="272"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -64,13 +64,19 @@
        style="fill:#55ddff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 131.2654,133.20982 c -9.9738,10.45048 -20.17397,21.88085 -30.25982,33.99454 -47.505661,57.05703 -74.156381,107.54821 -59.539811,112.7624 14.61657,5.21418 64.974431,-36.83035 112.480091,-93.88738 6.77749,-8.14014 13.12199,-16.11412 18.99164,-23.87421 -18.77957,-3.29399 -34.24468,-14.32773 -41.6721,-28.99535 z"
        id="path3757"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\combat_sim\path3851.png"
+       inkscape:export-xdpi="43.421993"
+       inkscape:export-ydpi="43.421993" />
     <path
        style="fill:#55ddff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        clip-path="none"
        d="m 184.21875,44.397317 c -34.17309,0.80497 -61.625,28.95337 -61.625,63.593753 0,35.14719 28.25676,63.65625 63.125,63.65625 34.86824,0 63.15625,-28.50906 63.15625,-63.65625 0,-4.50355 -0.46053,-8.886333 -1.34375,-13.125003 l -32.0625,0 -3.90625,33.812503 -29.78125,13.40625 -25.84375,-20.6875 3.96875,-34.062503 24.3125,-10.9375 0,-32 z"
        id="path2985"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\combat_sim\path3851.png"
+       inkscape:export-xdpi="43.421993"
+       inkscape:export-ydpi="43.421993" />
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3777"
@@ -87,7 +93,9 @@
        sodipodi:rx="6.0714288"
        sodipodi:ry="5.7142859"
        d="m 299.99999,628.07648 a 6.0714288,5.7142859 0 1 1 -12.14286,0 6.0714288,5.7142859 0 1 1 12.14286,0 z"
-       transform="translate(-241.42857,-365.71428)" />
+       transform="translate(-241.42857,-365.71428)"
+       inkscape:export-xdpi="43.421993"
+       inkscape:export-ydpi="43.421993" />
     <path
        sodipodi:type="arc"
        style="fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -97,14 +105,20 @@
        sodipodi:rx="6.0714288"
        sodipodi:ry="5.7142859"
        d="m 299.99999,628.07648 a 6.0714288,5.7142859 0 1 1 -12.14286,0 6.0714288,5.7142859 0 1 1 12.14286,0 z"
-       transform="matrix(9.5882351,0,0,9.5625001,-2439.3275,-5625.4046)" />
+       transform="matrix(9.5882351,0,0,9.5625001,-2439.3275,-5625.4046)"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3857C.png"
+       inkscape:export-xdpi="69.781502"
+       inkscape:export-ydpi="69.781502" />
     <path
        transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,320.19895,-181.87569)"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 447.14285,295.57648 c 0,70.4163 -30.22078,127.5 -67.5,127.5 -37.27922,0 -67.5,-57.0837 -67.5,-127.5 0,-51.52627 10.96956,-89.45707 32.95148,-108.40318 12.97662,-9.37378 54.04051,-8.27317 63.35096,-1.9147 25.35701,18.34262 38.69756,57.71491 38.69756,110.31788 z"
        id="path3853"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssccs" />
+       sodipodi:nodetypes="sssccs"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3857C.png"
+       inkscape:export-xdpi="69.781502"
+       inkscape:export-ydpi="69.781502" />
     <path
        transform="matrix(9.5882351,0,0,9.5625001,-2474.3275,-5607.5475)"
        d="m 299.99999,628.07648 a 6.0714288,5.7142859 0 1 1 -12.14286,0 6.0714288,5.7142859 0 1 1 12.14286,0 z"
@@ -114,7 +128,10 @@
        sodipodi:cx="293.92856"
        id="path3855"
        style="fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="arc" />
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3857C.png"
+       inkscape:export-xdpi="69.781502"
+       inkscape:export-ydpi="69.781502" />
     <path
        sodipodi:type="arc"
        style="fill:#ac9393;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -124,7 +141,10 @@
        sodipodi:rx="53.214287"
        sodipodi:ry="45.714287"
        d="m 544.99999,255.21933 a 53.214287,45.714287 0 1 1 -106.42857,0 53.214287,45.714287 0 1 1 106.42857,0 z"
-       transform="matrix(0.49549227,0.4768204,-0.23226201,0.22350957,260.95887,-63.818089)" />
+       transform="matrix(0.49549227,0.4768204,-0.23226201,0.22350957,260.95887,-63.818089)"
+       inkscape:export-xdpi="69.781502"
+       inkscape:export-ydpi="69.781502"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3857C.png" />
     <path
        style="fill:#c8ab37;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 257.5 540.21875 C 199.70734 540.21875 152.84375 582.10318 152.84375 633.78125 C 152.84375 685.45932 199.70734 727.375 257.5 727.375 C 315.29266 727.375 362.15625 685.45932 362.15625 633.78125 C 362.15625 582.10318 315.29266 540.21875 257.5 540.21875 z M 256.4375 553.0625 C 305.35415 553.0625 345 590.17676 345 635.9375 C 345 681.69824 305.35415 718.78125 256.4375 718.78125 C 207.52085 718.78125 167.84375 681.69824 167.84375 635.9375 C 167.84375 590.17676 207.52085 553.0625 256.4375 553.0625 z "
@@ -170,7 +190,10 @@
        style="fill:#c8ab37;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:type="arc" />
     <g
-       id="g3904">
+       id="g3904"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3997.png"
+       inkscape:export-xdpi="57.79118"
+       inkscape:export-ydpi="57.79118">
       <path
          transform="matrix(0,0.26595748,-1,0,1112.005,644.04911)"
          d="m 129.28572,543.07648 c 0,62.72376 -15.03044,113.57142 -33.571433,113.57142 -18.540989,0 -33.57143,-50.84766 -33.57143,-113.57142 0,-62.72377 15.030441,-113.57143 33.57143,-113.57143 18.540993,0 33.571433,50.84766 33.571433,113.57143 z"
@@ -224,7 +247,10 @@
     </g>
     <g
        id="g3911"
-       transform="matrix(0,1,-1,0,1243.0764,96.362174)">
+       transform="matrix(0,1,-1,0,1243.0764,96.362174)"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3997.png"
+       inkscape:export-xdpi="57.79118"
+       inkscape:export-ydpi="57.79118">
       <path
          sodipodi:type="arc"
          style="fill:#c8ab37;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -278,7 +304,10 @@
     </g>
     <g
        transform="matrix(-0.6846625,0.72886025,-0.72886025,-0.6846625,1454.3053,710.59829)"
-       id="g3923">
+       id="g3923"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3997.png"
+       inkscape:export-xdpi="57.79118"
+       inkscape:export-ydpi="57.79118">
       <path
          transform="matrix(0,0.26595748,-1,0,1112.005,644.04911)"
          d="m 129.28572,543.07648 c 0,62.72376 -15.03044,113.57142 -33.571433,113.57142 -18.540989,0 -33.57143,-50.84766 -33.57143,-113.57142 0,-62.72377 15.030441,-113.57143 33.57143,-113.57143 18.540993,0 33.571433,50.84766 33.571433,113.57143 z"
@@ -332,7 +361,10 @@
     </g>
     <g
        id="g3935"
-       transform="matrix(-0.73207355,-0.6812256,0.6812256,-0.73207355,536.62349,1550.8501)">
+       transform="matrix(-0.73207355,-0.6812256,0.6812256,-0.73207355,536.62349,1550.8501)"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3997.png"
+       inkscape:export-xdpi="57.79118"
+       inkscape:export-ydpi="57.79118">
       <path
          sodipodi:type="arc"
          style="fill:#c8ab37;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -386,7 +418,10 @@
     </g>
     <g
        transform="matrix(-0.73207355,-0.6812256,0.6812256,-0.73207355,536.62349,1550.8501)"
-       id="g3947">
+       id="g3947"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3997.png"
+       inkscape:export-xdpi="57.79118"
+       inkscape:export-ydpi="57.79118">
       <path
          transform="matrix(0,0.26595748,-1,0,1112.005,644.04911)"
          d="m 129.28572,543.07648 c 0,62.72376 -15.03044,113.57142 -33.571433,113.57142 -18.540989,0 -33.57143,-50.84766 -33.57143,-113.57142 0,-62.72377 15.030441,-113.57143 33.57143,-113.57143 18.540993,0 33.571433,50.84766 33.571433,113.57143 z"
@@ -442,12 +477,18 @@
        id="path3995"
        d="m 573.35712,595.06975 c -42.0151,0 -76.08482,33.41222 -76.08482,74.63708 0,41.22487 34.06972,74.66202 76.08482,74.66202 42.01512,0 76.08483,-33.43715 76.08483,-74.66202 0,-41.22486 -34.06971,-74.63708 -76.08483,-74.63708 z m -0.77243,10.24577 c 35.56228,0 64.38471,29.60695 64.38471,66.11141 0,36.50446 -28.82243,66.08648 -64.38471,66.08648 -35.56228,0 -64.40743,-29.58202 -64.40743,-66.08648 0,-36.50446 28.84515,-66.11141 64.40743,-66.11141 z"
        style="fill:#c8ab37;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3997.png"
+       inkscape:export-xdpi="57.79118"
+       inkscape:export-ydpi="57.79118" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#c8ab37;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 573.35712,631.14118 c -23.27927,0 -42.15625,17.26709 -42.15625,38.57167 0,21.30459 18.87698,38.58457 42.15625,38.58457 23.27928,0 42.15625,-17.27998 42.15625,-38.58457 0,-21.30458 -18.87697,-38.57167 -42.15625,-38.57167 z m -0.42798,5.29491 c 19.70396,0 35.67358,15.30056 35.67358,34.16569 0,18.86513 -15.96962,34.15282 -35.67358,34.15282 -19.70396,0 -35.68617,-15.28769 -35.68617,-34.15282 0,-18.86513 15.98221,-34.16569 35.68617,-34.16569 z"
-       id="path3997" />
+       id="path3997"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\path3997.png"
+       inkscape:export-xdpi="57.79118"
+       inkscape:export-ydpi="57.79118" />
     <path
        style="fill:#c8ab37;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 198.49497,835.17937 c 1.01219,26.32799 -13.3874,34.71382 -23.73859,34.85026 -16.99445,0.22401 -16.47451,-11.28391 -3.03046,-29.7995 16.71718,-23.02345 -33.80573,-55.12865 -20.70813,-54.54823 12.98261,0.57532 46.76972,31.09581 47.47718,49.49747 z"
@@ -484,5 +525,53 @@
        inkscape:export-filename="C:\Users\snutecht\Desktop\path3036.png"
        inkscape:export-xdpi="66.870003"
        inkscape:export-ydpi="66.870003" />
+    <path
+       inkscape:export-ydpi="69.781502"
+       inkscape:export-xdpi="69.781502"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\combat_sim\path3857B.png"
+       transform="matrix(-9.5882351,0,0,9.5625001,3447.7498,-5625.4046)"
+       d="m 299.99999,628.07648 a 6.0714288,5.7142859 0 1 1 -12.14286,0 6.0714288,5.7142859 0 1 1 12.14286,0 z"
+       sodipodi:ry="5.7142859"
+       sodipodi:rx="6.0714288"
+       sodipodi:cy="628.07648"
+       sodipodi:cx="293.92856"
+       id="path3032"
+       style="fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="69.781502"
+       inkscape:export-xdpi="69.781502"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\combat_sim\path3857B.png"
+       sodipodi:nodetypes="sssccs"
+       inkscape:connector-curvature="0"
+       id="path3035"
+       d="m 581.04979,343.30618 c 49.79184,49.79185 111.52543,68.7868 137.88582,42.42641 26.36039,-26.36039 7.36544,-88.09398 -42.42641,-137.88582 -36.43457,-36.43458 -71.01235,-55.49905 -99.95283,-53.35241 -15.80412,2.54759 -44.06243,32.3624 -46.14979,43.442 -4.95993,30.9003 13.44729,68.17391 50.64321,105.36982 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       inkscape:export-ydpi="69.781502"
+       inkscape:export-xdpi="69.781502"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\combat_sim\path3857B.png"
+       sodipodi:type="arc"
+       style="fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3037"
+       sodipodi:cx="293.92856"
+       sodipodi:cy="628.07648"
+       sodipodi:rx="6.0714288"
+       sodipodi:ry="5.7142859"
+       d="m 299.99999,628.07648 a 6.0714288,5.7142859 0 1 1 -12.14286,0 6.0714288,5.7142859 0 1 1 12.14286,0 z"
+       transform="matrix(-9.5882351,0,0,9.5625001,3482.7498,-5607.5475)" />
+    <path
+       inkscape:export-ydpi="69.781502"
+       inkscape:export-xdpi="69.781502"
+       transform="matrix(-0.49549227,0.4768204,0.23226201,0.22350957,747.46348,-63.818089)"
+       d="m 544.99999,255.21933 a 53.214287,45.714287 0 1 1 -106.42857,0 53.214287,45.714287 0 1 1 106.42857,0 z"
+       sodipodi:ry="45.714287"
+       sodipodi:rx="53.214287"
+       sodipodi:cy="255.21933"
+       sodipodi:cx="491.78571"
+       id="path3039"
+       style="fill:#ac9393;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\snutecht\Desktop\combat_sim\path3857B.png" />
   </g>
 </svg>
